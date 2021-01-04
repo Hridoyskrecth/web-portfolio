@@ -1,0 +1,22 @@
+   body {
+       font-family: 'Montserrat', sans-serif;
+   }
+   
+   h1 {
+       font-size: 53px;
+   }
+   
+   .soft {
+       color: rgb(0, 0, 255);
+   }
+   
+   .half {
+       width: 40%;
+       float: left;
+       margin-left: 5px;
+       padding-left: 5px;
+   }
+   
+   .half img {
+       width: 100%;
+   }
